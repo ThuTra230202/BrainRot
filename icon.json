@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "beaver",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fbeaver.png?alt=media",
+    "is_pro": "TRUE"
+  },
+  {
+    "id": 2,
+    "name": "camel",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fcamel.png?alt=media",
+    "is_pro": "TRUE"
+  },
+  {
+    "id": 3,
+    "name": "cat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fcat.png?alt=media",
+    "is_pro": "TRUE"
+  },
+  {
+    "id": 4,
+    "name": "cow",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fcow.png?alt=media",
+    "is_pro": "TRUE"
+  },
+  {
+    "id": 5,
+    "name": "crocodile",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fcrocodile.png?alt=media",
+    "is_pro": "TRUE"
+  },
+  {
+    "id": 6,
+    "name": "dog",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fdog.png?alt=media",
+    "is_pro": "TRUE"
+  },
+  {
+    "id": 7,
+    "name": "duck",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fduck.png?alt=media",
+    "is_pro": "TRUE"
+  },
+  {
+    "id": 8,
+    "name": "fish",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Ffish.png?alt=media",
+    "is_pro": "TRUE"
+  },
+  {
+    "id": 9,
+    "name": "frog",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Ffrog.png?alt=media",
+    "is_pro": "TRUE"
+  },
+  {
+    "id": 10,
+    "name": "giraffe",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fgiraffe.png?alt=media",
+    "is_pro": "TRUE"
+  },
+  {
+    "id": 11,
+    "name": "gorilla",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fgorilla.png?alt=media",
+    "is_pro": "TRUE"
+  },
+  {
+    "id": 12,
+    "name": "shark",
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fshark.png?alt=media",
+    "is_pro": "TRUE"
+  }
+]
