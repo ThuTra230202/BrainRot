@@ -152,7 +152,8 @@
   {
     "id": 26,
     "name": "orange",
-    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Forange.png?alt=media"
+    "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Forange.png?alt=media",
+    "is_pro": "TRUE"
   },
   {
     "id": 27,
