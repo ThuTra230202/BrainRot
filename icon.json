@@ -3,210 +3,210 @@
     "id": 1,
     "name": "shark",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fshark.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 2,
     "name": "monkey",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fgorilla.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 3,
     "name": "crocodile",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fcrocodile.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 4,
     "name": "duck",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fduck.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 5,
     "name": "cow",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fcow.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 6,
     "name": "giraffe",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fgiraffe.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 7,
     "name": "frog",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Ffrog.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 8,
     "name": "elephant",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Felephant.jpeg?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 9,
     "name": "fish",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Ffish.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 10,
     "name": "beaver",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fbeaver.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 11,
     "name": "cat",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fcat.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 12,
     "name": "dog",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fdog.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 13,
     "name": "camel",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fcamel.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 14,
     "name": "rhiid",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Frhino.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 15,
     "name": "shoe",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fshoe.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 16,
     "name": "plane",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Faircraft.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 17,
     "name": "tires",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Ftire.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 18,
     "name": "hat",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fhat.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 19,
     "name": "foot",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Ffoot.jpeg?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 20,
     "name": "log",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Flog.jpeg?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 21,
     "name": "ball",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fball.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 22,
     "name": "muscle",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fmuscle.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 23,
     "name": "box",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fbox.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 24,
     "name": "kettle",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fpot.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 25,
     "name": "watermelon",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fwatermelon.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 26,
     "name": "orange",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Forange.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 27,
     "name": "avocado",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Favocado.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 28,
     "name": "coconut",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fcoconut.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 29,
     "name": "banana",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fbanana.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 30,
     "name": "cactus",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fcactus.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 31,
     "name": "tree",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Ftree.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 32,
     "name": "planet",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fplanet.jpeg?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 33,
     "name": "coffee",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fcoffee.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 34,
     "name": "kendo",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fsword.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   },
   {
     "id": 35,
     "name": "dance",
     "image": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/icon%2Fballet.png?alt=media",
-    "is_pro": "TRUE"
+    "is_pro": "FALSE"
   }
 ]
