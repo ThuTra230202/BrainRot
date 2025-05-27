@@ -1642,27 +1642,7 @@
   {
     "no": 83,
     "id": "trulimero_trulichina",
-    "name": "Trippi Troppi",
-    "emoji": "🐻 + 🐟",
-    "motive": "Fish, Cat",
-    "audio": "https://storage.googleapis.com/findlostmobile-8871f.firebasestorage.app/test_sound/trulimero_trulichina.mp3",
-    "Story_EN": "Trulimero Trulicina is one of the italian brainrot animals. He is a fish mixed with a cat. The alternative version of Trulimero Trulicina also possesses four human-like legs.",
-    "Story_ZH": "Trulimero Trulicina 是意大利脑洞动物之一。他是一种混合了猫的鱼。Trulimero Trulicina 的另一个版本还有四条类似人类的腿。",
-    "Story_ID": "Trulimero Trulicina adalah salah satu hewan Italian Brainrot. Dia adalah ikan yang dicampur dengan kucing. Versi alternatif dari Trulimero Trulicina juga memiliki empat kaki mirip manusia.",
-    "Story_VI": "Trulimero Trulicina là một trong những loài động vật Italian Brainrot. Nó là một con cá kết hợp với mèo. Phiên bản thay thế của Trulimero Trulicina cũng có bốn chân giống như chân người.",
-    "Story_FR": "Trulimero Trulicina est l'un des animaux cervidés italiens. C'est un poisson mélangé à un chat. La version alternative de Trulimero Trulicina possède également quatre pattes ressemblant à des humains.",
-    "Story_DE": "Trulimero Trulicina ist eines der italienischen Hirnfäuletiere. Er ist ein Fisch gemischt mit einer Katze. Die alternative Version von Trulimero Trulicina besitzt ebenfalls vier menschenähnliche Beine.",
-    "Story_HI": "ट्रुलिमेरो ट्रुलिसिना इटालियन ब्रेनरोट जानवरों में से एक है। वह एक बिल्ली के साथ मिश्रित मछली है। ट्रुलिमेरो ट्रुलिसिना के वैकल्पिक संस्करण में मानव जैसे चार पैर भी हैं।",
-    "Story_IT": "Trulimero Trulicina è uno degli animali Brainrot italiani. È un pesce mescolato con un gatto. La versione alternativa di Trulimero Trulicina possiede anche quattro gambe simili a quelle umane.",
-    "Story_PT": "Trulimero Trulicina é um dos animais da podridão cerebral italiana. Ele é um peixe misturado com um gato. A versão alternativa do Trulimero Trulicina também possui quatro pernas semelhantes às humanas.",
-    "Story_ES": "Trulimero Trulicina es uno de los animales italianos con pudrición cerebral. Es un pez mezclado con un gato. La versión alternativa de Trulimero Trulicina también posee cuatro patas humanas.",
-    "image_bg": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/wiki%2FTrippi%20Troppi.jpeg?alt=media",
-    "image_no_bg": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/whothatbrain%2FTrippi%20Troppi.png?alt=media"
-  },
-  {
-    "no": 84,
-    "id": "trulimero_trulicina",
-    "name": "Trulimero Trulicina",
+    "name": "Trulimero Trulichina",
     "emoji": "🐱 + 🐟 + 🦵",
     "motive": "Fish, Cat, Leg",
     "audio": "https://storage.googleapis.com/findlostmobile-8871f.firebasestorage.app/test_sound/trulimero_trulicina.mp3",
@@ -1680,7 +1660,7 @@
     "image_no_bg": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/whothatbrain%2FTrulimero%20Trulicina.png?alt=media"
   },
   {
-    "no": 85,
+    "no": 84,
     "id": "tung_tung_tung_tung_tung_tung_tung_tung_tung_sahur",
     "name": "Tung Tung Tung Tung Tung Tung Tung Tung Tung Sahur",
     "emoji": "🪵 + 🙂 + 🥁",
@@ -1700,7 +1680,7 @@
     "image_no_bg": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/whothatbrain%2FTung%20Tung%20Tung%20Tung%20Tung%20Tung%20Tung%20Tung%20Tung%20Sahur.png?alt=media"
   },
   {
-    "no": 86,
+    "no": 85,
     "id": "tunga_tunga_tunga_tunga_sahur",
     "name": "Tunga Tunga Tunga Tunga Sahur",
     "emoji": "👧 + 🪵 + 🥁",
@@ -1720,7 +1700,7 @@
     "image_no_bg": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/whothatbrain%2FTunga%20Tunga%20Tunga%20Tunga%20Sahur.png?alt=media"
   },
   {
-    "no": 87,
+    "no": 86,
     "id": "u_din_din_din_din_dun_ma_din_din_din_dun",
     "name": "U Din Din Din Din Dun Ma Din Din Din Dun",
     "emoji": "🍊 + 💪",
@@ -1740,7 +1720,7 @@
     "image_no_bg": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/whothatbrain%2FU%20Din%20Din%20Din%20Din%20Dun%20Ma%20Din%20Din%20Din%20Dun.png?alt=media"
   },
   {
-    "no": 88,
+    "no": 87,
     "id": "un_tigre_mango",
     "name": "Un Tigre Mango",
     "emoji": "🐅 + 🥭",
@@ -1760,7 +1740,7 @@
     "image_no_bg": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/whothatbrain%2FUn%20Tigre%20Mango.png?alt=media"
   },
   {
-    "no": 89,
+    "no": 88,
     "id": "unta_tob_tobi_tob",
     "name": "Unta Tob Tobi Tob",
     "emoji": "🐪 + 🤠 + 🌵",
@@ -1780,7 +1760,7 @@
     "image_no_bg": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/whothatbrain%2FUnta%20Tob%20Tobi%20Tob.png?alt=media"
   },
   {
-    "no": 90,
+    "no": 89,
     "id": "valorantucci_streamerucci_monkeyucci",
     "name": "Valorantucci Streamerucci Monkeyucci",
     "emoji": "🐒 + 🖥️ + 🎮 + 🔫",
@@ -1800,7 +1780,7 @@
     "image_no_bg": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/whothatbrain%2FValorantucci%20Streamerucci%20Monkeyucci.png?alt=media"
   },
   {
-    "no": 91,
+    "no": 90,
     "id": "zibra_zubra_zibralini",
     "name": "Zibra Zubra Zibralini",
     "emoji": "🦓 + 🍉 + 🦵",
