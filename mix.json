@@ -102,7 +102,7 @@
     "id": 12,
     "name_1": "dog",
     "name_2": "muscle",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Tralala",
     "mixed_image": "muscle_12",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/muscle%2Fmuscle_12.webp?alt=media"
@@ -120,7 +120,7 @@
     "id": 14,
     "name_1": "rhiid",
     "name_2": "muscle",
-    "mixed_name": "id name",
+    "mixed_name": "Sahur Lumbalú",
     "mixed_image": "muscle_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/muscle%2Fmuscle_14.webp?alt=media"
@@ -246,7 +246,7 @@
     "id": 28,
     "name_1": "coconut",
     "name_2": "muscle",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Tirirí",
     "mixed_image": "muscle_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/muscle%2Fmuscle_28.webp?alt=media"
@@ -309,7 +309,7 @@
     "id": 35,
     "name_1": "dance",
     "name_2": "muscle",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Lumbalú",
     "mixed_image": "muscle_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/muscle%2Fmuscle_35.webp?alt=media"
@@ -417,7 +417,7 @@
     "id": 47,
     "name_1": "dog",
     "name_2": "avocado",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Patapín",
     "mixed_image": "avocado_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/avocado%2Favocado_12.webp?alt=media"
@@ -435,7 +435,7 @@
     "id": 49,
     "name_1": "rhiid",
     "name_2": "avocado",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Patapín",
     "mixed_image": "avocado_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/avocado%2Favocado_14.webp?alt=media"
@@ -561,7 +561,7 @@
     "id": 63,
     "name_1": "coconut",
     "name_2": "avocado",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Pampún",
     "mixed_image": "avocado_28",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/avocado%2Favocado_28.webp?alt=media"
@@ -624,7 +624,7 @@
     "id": 70,
     "name_1": "dance",
     "name_2": "avocado",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Patapín",
     "mixed_image": "avocado_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/avocado%2Favocado_35.webp?alt=media"
@@ -732,7 +732,7 @@
     "id": 82,
     "name_1": "dog",
     "name_2": "plane",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Ambalabú",
     "mixed_image": "plane_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/plane%2Fplane_12.webp?alt=media"
@@ -750,7 +750,7 @@
     "id": 84,
     "name_1": "rhiid",
     "name_2": "plane",
-    "mixed_name": "id name",
+    "mixed_name": "Bananini Capuchini",
     "mixed_image": "plane_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/plane%2Fplane_14.webp?alt=media"
@@ -876,7 +876,7 @@
     "id": 98,
     "name_1": "coconut",
     "name_2": "plane",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Bananini",
     "mixed_image": "plane_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/plane%2Fplane_28.webp?alt=media"
@@ -939,7 +939,7 @@
     "id": 105,
     "name_1": "dance",
     "name_2": "plane",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Brr brr",
     "mixed_image": "plane_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/plane%2Fplane_35.webp?alt=media"
@@ -1047,7 +1047,7 @@
     "id": 117,
     "name_1": "dog",
     "name_2": "banana",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Tung tung",
     "mixed_image": "banana_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/banana%2Fbanana_12.webp?alt=media"
@@ -1065,7 +1065,7 @@
     "id": 119,
     "name_1": "rhiid",
     "name_2": "banana",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Bananini",
     "mixed_image": "banana_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/banana%2Fbanana_14.webp?alt=media"
@@ -1191,7 +1191,7 @@
     "id": 133,
     "name_1": "coconut",
     "name_2": "banana",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Tung tung",
     "mixed_image": "banana_28",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/banana%2Fbanana_28.webp?alt=media"
@@ -1254,7 +1254,7 @@
     "id": 140,
     "name_1": "dance",
     "name_2": "banana",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Lirili",
     "mixed_image": "banana_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/banana%2Fbanana_35.webp?alt=media"
@@ -1362,7 +1362,7 @@
     "id": 152,
     "name_1": "dog",
     "name_2": "box",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Ambalabú",
     "mixed_image": "box_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/box%2Fbox_12.webp?alt=media"
@@ -1380,7 +1380,7 @@
     "id": 154,
     "name_1": "rhiid",
     "name_2": "box",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Tung tung",
     "mixed_image": "box_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/box%2Fbox_14.webp?alt=media"
@@ -1506,7 +1506,7 @@
     "id": 168,
     "name_1": "coconut",
     "name_2": "box",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Sahur",
     "mixed_image": "box_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/box%2Fbox_28.webp?alt=media"
@@ -1569,7 +1569,7 @@
     "id": 175,
     "name_1": "dance",
     "name_2": "box",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Lirili",
     "mixed_image": "box_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/box%2Fbox_35.webp?alt=media"
@@ -1677,7 +1677,7 @@
     "id": 187,
     "name_1": "dog",
     "name_2": "beaver",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Zampaló",
     "mixed_image": "beaver_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/beaver%2Fbeaver_12.webp?alt=media"
@@ -1695,7 +1695,7 @@
     "id": 189,
     "name_1": "rhiid",
     "name_2": "beaver",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Patapín",
     "mixed_image": "beaver_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/beaver%2Fbeaver_14.webp?alt=media"
@@ -1884,7 +1884,7 @@
     "id": 210,
     "name_1": "dance",
     "name_2": "beaver",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Patapín",
     "mixed_image": "beaver_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/beaver%2Fbeaver_35.webp?alt=media"
@@ -1992,7 +1992,7 @@
     "id": 222,
     "name_1": "dog",
     "name_2": "duck",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Bananini",
     "mixed_image": "duck_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/duck%2Fduck_12.webp?alt=media"
@@ -2010,7 +2010,7 @@
     "id": 224,
     "name_1": "rhiid",
     "name_2": "duck",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Larita",
     "mixed_image": "duck_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/duck%2Fduck_14.webp?alt=media"
@@ -2136,7 +2136,7 @@
     "id": 238,
     "name_1": "coconut",
     "name_2": "duck",
-    "mixed_name": "id name",
+    "mixed_name": "Bananini Pampún",
     "mixed_image": "duck_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/duck%2Fduck_28.webp?alt=media"
@@ -2199,7 +2199,7 @@
     "id": 245,
     "name_1": "dance",
     "name_2": "duck",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Lumbalú",
     "mixed_image": "duck_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/duck%2Fduck_35.webp?alt=media"
@@ -2208,7 +2208,7 @@
     "id": 246,
     "name_1": "shark",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Ambalabú",
     "mixed_image": "dog_1",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_1.webp?alt=media"
@@ -2217,7 +2217,7 @@
     "id": 247,
     "name_1": "monkey",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Capuchini",
     "mixed_image": "dog_2",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_2.webp?alt=media"
@@ -2226,7 +2226,7 @@
     "id": 248,
     "name_1": "crocodile",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Zampaló",
     "mixed_image": "dog_3",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_3.webp?alt=media"
@@ -2235,7 +2235,7 @@
     "id": 249,
     "name_1": "duck",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Ambalabú Tirirí",
     "mixed_image": "dog_4",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_4.webp?alt=media"
@@ -2244,7 +2244,7 @@
     "id": 250,
     "name_1": "cow",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Bananini",
     "mixed_image": "dog_5",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_5.webp?alt=media"
@@ -2253,7 +2253,7 @@
     "id": 251,
     "name_1": "giraffe",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Zampaló",
     "mixed_image": "dog_6",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_6.webp?alt=media"
@@ -2262,7 +2262,7 @@
     "id": 252,
     "name_1": "frog",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Lirili",
     "mixed_image": "dog_7",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_7.webp?alt=media"
@@ -2271,7 +2271,7 @@
     "id": 253,
     "name_1": "elephant",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Bam bam",
     "mixed_image": "dog_8",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_8.webp?alt=media"
@@ -2280,7 +2280,7 @@
     "id": 254,
     "name_1": "fish",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Patapín",
     "mixed_image": "dog_9",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_9.webp?alt=media"
@@ -2289,7 +2289,7 @@
     "id": 255,
     "name_1": "beaver",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Tung tung",
     "mixed_image": "dog_10",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_10.webp?alt=media"
@@ -2298,7 +2298,7 @@
     "id": 256,
     "name_1": "cat",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Brr brr",
     "mixed_image": "dog_11",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_11.webp?alt=media"
@@ -2307,7 +2307,7 @@
     "id": 257,
     "name_1": "dog",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Capuchini",
     "mixed_image": "dog_12",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_12.webp?alt=media"
@@ -2316,7 +2316,7 @@
     "id": 258,
     "name_1": "camel",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Lumbalú",
     "mixed_image": "dog_13",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_13.webp?alt=media"
@@ -2325,7 +2325,7 @@
     "id": 259,
     "name_1": "rhiid",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Bam bam",
     "mixed_image": "dog_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_14.webp?alt=media"
@@ -2334,7 +2334,7 @@
     "id": 260,
     "name_1": "shoe",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Bam bam",
     "mixed_image": "dog_15",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_15.webp?alt=media"
@@ -2343,7 +2343,7 @@
     "id": 261,
     "name_1": "plane",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Tirirí",
     "mixed_image": "dog_16",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_16.webp?alt=media"
@@ -2352,7 +2352,7 @@
     "id": 262,
     "name_1": "tires",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Sahur Bam bam",
     "mixed_image": "dog_17",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_17.webp?alt=media"
@@ -2361,7 +2361,7 @@
     "id": 263,
     "name_1": "hat",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Brr brr",
     "mixed_image": "dog_18",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_18.webp?alt=media"
@@ -2370,7 +2370,7 @@
     "id": 264,
     "name_1": "foot",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Pampún",
     "mixed_image": "dog_19",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_19.webp?alt=media"
@@ -2379,7 +2379,7 @@
     "id": 265,
     "name_1": "log",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Tralala",
     "mixed_image": "dog_20",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_20.webp?alt=media"
@@ -2388,7 +2388,7 @@
     "id": 266,
     "name_1": "ball",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Larita",
     "mixed_image": "dog_21",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_21.webp?alt=media"
@@ -2397,7 +2397,7 @@
     "id": 267,
     "name_1": "muscle",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Zampaló",
     "mixed_image": "dog_22",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_22.webp?alt=media"
@@ -2406,7 +2406,7 @@
     "id": 268,
     "name_1": "box",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Bananini",
     "mixed_image": "dog_23",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_23.webp?alt=media"
@@ -2415,7 +2415,7 @@
     "id": 269,
     "name_1": "kettle",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Bananini",
     "mixed_image": "dog_24",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_24.webp?alt=media"
@@ -2424,7 +2424,7 @@
     "id": 270,
     "name_1": "watermelon",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Brr brr",
     "mixed_image": "dog_25",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_25.webp?alt=media"
@@ -2433,7 +2433,7 @@
     "id": 271,
     "name_1": "orange",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Bananini Bananini",
     "mixed_image": "dog_26",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_26.webp?alt=media"
@@ -2442,7 +2442,7 @@
     "id": 272,
     "name_1": "avocado",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Sahur Capuchini",
     "mixed_image": "dog_27",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_27.webp?alt=media"
@@ -2451,7 +2451,7 @@
     "id": 273,
     "name_1": "coconut",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Bananini Tung tung",
     "mixed_image": "dog_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_28.webp?alt=media"
@@ -2460,7 +2460,7 @@
     "id": 274,
     "name_1": "banana",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Zampaló",
     "mixed_image": "dog_29",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_29.webp?alt=media"
@@ -2469,7 +2469,7 @@
     "id": 275,
     "name_1": "cactus",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Capuchini",
     "mixed_image": "dog_30",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_30.webp?alt=media"
@@ -2478,7 +2478,7 @@
     "id": 276,
     "name_1": "tree",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Bam bam",
     "mixed_image": "dog_31",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_31.webp?alt=media"
@@ -2487,7 +2487,7 @@
     "id": 277,
     "name_1": "planet",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Larita",
     "mixed_image": "dog_32",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_32.webp?alt=media"
@@ -2496,7 +2496,7 @@
     "id": 278,
     "name_1": "coffee",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Tralala",
     "mixed_image": "dog_33",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_33.webp?alt=media"
@@ -2505,7 +2505,7 @@
     "id": 279,
     "name_1": "kendo",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Sahur",
     "mixed_image": "dog_34",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_34.webp?alt=media"
@@ -2514,7 +2514,7 @@
     "id": 280,
     "name_1": "dance",
     "name_2": "dog",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Bananini",
     "mixed_image": "dog_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dog%2Fdog_35.webp?alt=media"
@@ -2523,7 +2523,7 @@
     "id": 281,
     "name_1": "shark",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Lirili",
     "mixed_image": "coconut_1",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_1.webp?alt=media"
@@ -2532,7 +2532,7 @@
     "id": 282,
     "name_1": "monkey",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Capuchini",
     "mixed_image": "coconut_2",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_2.webp?alt=media"
@@ -2541,7 +2541,7 @@
     "id": 283,
     "name_1": "crocodile",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Ambalabú",
     "mixed_image": "coconut_3",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_3.webp?alt=media"
@@ -2550,7 +2550,7 @@
     "id": 284,
     "name_1": "duck",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Zampaló",
     "mixed_image": "coconut_4",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_4.webp?alt=media"
@@ -2559,7 +2559,7 @@
     "id": 285,
     "name_1": "cow",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Capuchini",
     "mixed_image": "coconut_5",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_5.webp?alt=media"
@@ -2568,7 +2568,7 @@
     "id": 286,
     "name_1": "giraffe",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Capuchini",
     "mixed_image": "coconut_6",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_6.webp?alt=media"
@@ -2577,7 +2577,7 @@
     "id": 287,
     "name_1": "frog",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Larita",
     "mixed_image": "coconut_7",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_7.webp?alt=media"
@@ -2586,7 +2586,7 @@
     "id": 288,
     "name_1": "elephant",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Zampaló",
     "mixed_image": "coconut_8",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_8.webp?alt=media"
@@ -2595,7 +2595,7 @@
     "id": 289,
     "name_1": "fish",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Larita",
     "mixed_image": "coconut_9",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_9.webp?alt=media"
@@ -2613,7 +2613,7 @@
     "id": 291,
     "name_1": "cat",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Sahur Capuchini",
     "mixed_image": "coconut_11",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_11.webp?alt=media"
@@ -2622,7 +2622,7 @@
     "id": 292,
     "name_1": "dog",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Sahur",
     "mixed_image": "coconut_12",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_12.webp?alt=media"
@@ -2631,7 +2631,7 @@
     "id": 293,
     "name_1": "camel",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Bam bam",
     "mixed_image": "coconut_13",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_13.webp?alt=media"
@@ -2640,7 +2640,7 @@
     "id": 294,
     "name_1": "rhiid",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Pampún",
     "mixed_image": "coconut_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_14.webp?alt=media"
@@ -2649,7 +2649,7 @@
     "id": 295,
     "name_1": "shoe",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Tung tung",
     "mixed_image": "coconut_15",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_15.webp?alt=media"
@@ -2658,7 +2658,7 @@
     "id": 296,
     "name_1": "plane",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Ambalabú",
     "mixed_image": "coconut_16",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_16.webp?alt=media"
@@ -2667,7 +2667,7 @@
     "id": 297,
     "name_1": "tires",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Bananini Brr brr",
     "mixed_image": "coconut_17",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_17.webp?alt=media"
@@ -2676,7 +2676,7 @@
     "id": 298,
     "name_1": "hat",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Lumbalú",
     "mixed_image": "coconut_18",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_18.webp?alt=media"
@@ -2685,7 +2685,7 @@
     "id": 299,
     "name_1": "foot",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Bam bam",
     "mixed_image": "coconut_19",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_19.webp?alt=media"
@@ -2694,7 +2694,7 @@
     "id": 300,
     "name_1": "log",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Patapín",
     "mixed_image": "coconut_20",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_20.webp?alt=media"
@@ -2703,7 +2703,7 @@
     "id": 301,
     "name_1": "ball",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Patapín",
     "mixed_image": "coconut_21",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_21.webp?alt=media"
@@ -2712,7 +2712,7 @@
     "id": 302,
     "name_1": "muscle",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Tirirí",
     "mixed_image": "coconut_22",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_22.webp?alt=media"
@@ -2721,7 +2721,7 @@
     "id": 303,
     "name_1": "box",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Tralala",
     "mixed_image": "coconut_23",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_23.webp?alt=media"
@@ -2730,7 +2730,7 @@
     "id": 304,
     "name_1": "kettle",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Brr brr",
     "mixed_image": "coconut_24",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_24.webp?alt=media"
@@ -2739,7 +2739,7 @@
     "id": 305,
     "name_1": "watermelon",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Zampaló",
     "mixed_image": "coconut_25",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_25.webp?alt=media"
@@ -2748,7 +2748,7 @@
     "id": 306,
     "name_1": "orange",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Tirirí",
     "mixed_image": "coconut_26",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_26.webp?alt=media"
@@ -2757,7 +2757,7 @@
     "id": 307,
     "name_1": "avocado",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Sahur Ambalabú",
     "mixed_image": "coconut_27",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_27.webp?alt=media"
@@ -2766,7 +2766,7 @@
     "id": 308,
     "name_1": "coconut",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Larita",
     "mixed_image": "coconut_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_28.webp?alt=media"
@@ -2775,7 +2775,7 @@
     "id": 309,
     "name_1": "banana",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Bam bam",
     "mixed_image": "coconut_29",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_29.webp?alt=media"
@@ -2784,7 +2784,7 @@
     "id": 310,
     "name_1": "cactus",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Sahur",
     "mixed_image": "coconut_30",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_30.webp?alt=media"
@@ -2793,7 +2793,7 @@
     "id": 311,
     "name_1": "tree",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Larita",
     "mixed_image": "coconut_31",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_31.webp?alt=media"
@@ -2802,7 +2802,7 @@
     "id": 312,
     "name_1": "planet",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Larita",
     "mixed_image": "coconut_32",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_32.webp?alt=media"
@@ -2811,7 +2811,7 @@
     "id": 313,
     "name_1": "coffee",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Bananini Tung tung",
     "mixed_image": "coconut_33",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_33.webp?alt=media"
@@ -2820,7 +2820,7 @@
     "id": 314,
     "name_1": "kendo",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Brr brr",
     "mixed_image": "coconut_34",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_34.webp?alt=media"
@@ -2829,7 +2829,7 @@
     "id": 315,
     "name_1": "dance",
     "name_2": "coconut",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Lumbalú",
     "mixed_image": "coconut_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coconut%2Fcoconut_35.webp?alt=media"
@@ -2937,7 +2937,7 @@
     "id": 327,
     "name_1": "dog",
     "name_2": "cactus",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Brr brr",
     "mixed_image": "cactus_12",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cactus%2Fcactus_12.webp?alt=media"
@@ -2955,7 +2955,7 @@
     "id": 329,
     "name_1": "rhiid",
     "name_2": "cactus",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Tralala",
     "mixed_image": "cactus_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cactus%2Fcactus_14.webp?alt=media"
@@ -3081,7 +3081,7 @@
     "id": 343,
     "name_1": "coconut",
     "name_2": "cactus",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Tung tung",
     "mixed_image": "cactus_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cactus%2Fcactus_28.webp?alt=media"
@@ -3144,7 +3144,7 @@
     "id": 350,
     "name_1": "dance",
     "name_2": "cactus",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Zampaló",
     "mixed_image": "cactus_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cactus%2Fcactus_35.webp?alt=media"
@@ -3252,7 +3252,7 @@
     "id": 362,
     "name_1": "dog",
     "name_2": "cat",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Larita",
     "mixed_image": "cat_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cat%2Fcat_12.webp?alt=media"
@@ -3270,7 +3270,7 @@
     "id": 364,
     "name_1": "rhiid",
     "name_2": "cat",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Sahur",
     "mixed_image": "cat_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cat%2Fcat_14.webp?alt=media"
@@ -3396,7 +3396,7 @@
     "id": 378,
     "name_1": "coconut",
     "name_2": "cat",
-    "mixed_name": "id name",
+    "mixed_name": "Sahur Tralala",
     "mixed_image": "cat_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cat%2Fcat_28.webp?alt=media"
@@ -3459,7 +3459,7 @@
     "id": 385,
     "name_1": "dance",
     "name_2": "cat",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Lumbalú",
     "mixed_image": "cat_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cat%2Fcat_35.webp?alt=media"
@@ -3468,7 +3468,7 @@
     "id": 386,
     "name_1": "shark",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Pampún",
     "mixed_image": "rhiid_1",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_1.webp?alt=media"
@@ -3477,7 +3477,7 @@
     "id": 387,
     "name_1": "monkey",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Brr brr",
     "mixed_image": "rhiid_2",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_2.webp?alt=media"
@@ -3486,7 +3486,7 @@
     "id": 388,
     "name_1": "crocodile",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Sahur",
     "mixed_image": "rhiid_3",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_3.webp?alt=media"
@@ -3495,7 +3495,7 @@
     "id": 389,
     "name_1": "duck",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Bam bam",
     "mixed_image": "rhiid_4",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_4.webp?alt=media"
@@ -3504,7 +3504,7 @@
     "id": 390,
     "name_1": "cow",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Pampún",
     "mixed_image": "rhiid_5",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_5.webp?alt=media"
@@ -3513,7 +3513,7 @@
     "id": 391,
     "name_1": "giraffe",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Brr brr",
     "mixed_image": "rhiid_6",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_6.webp?alt=media"
@@ -3522,7 +3522,7 @@
     "id": 392,
     "name_1": "frog",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Patapín",
     "mixed_image": "rhiid_7",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_7.webp?alt=media"
@@ -3531,7 +3531,7 @@
     "id": 393,
     "name_1": "elephant",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Lirili",
     "mixed_image": "rhiid_8",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_8.webp?alt=media"
@@ -3540,7 +3540,7 @@
     "id": 394,
     "name_1": "fish",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Sahur Patapín",
     "mixed_image": "rhiid_9",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_9.webp?alt=media"
@@ -3549,7 +3549,7 @@
     "id": 395,
     "name_1": "beaver",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Larita",
     "mixed_image": "rhiid_10",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_10.webp?alt=media"
@@ -3558,7 +3558,7 @@
     "id": 396,
     "name_1": "cat",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Ambalabú Sahur",
     "mixed_image": "rhiid_11",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_11.webp?alt=media"
@@ -3567,7 +3567,7 @@
     "id": 397,
     "name_1": "dog",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Tirirí",
     "mixed_image": "rhiid_12",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_12.webp?alt=media"
@@ -3576,7 +3576,7 @@
     "id": 398,
     "name_1": "camel",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Brr brr",
     "mixed_image": "rhiid_13",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_13.webp?alt=media"
@@ -3585,7 +3585,7 @@
     "id": 399,
     "name_1": "rhiid",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Capuchini",
     "mixed_image": "rhiid_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_14.webp?alt=media"
@@ -3594,7 +3594,7 @@
     "id": 400,
     "name_1": "shoe",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Pampún",
     "mixed_image": "rhiid_15",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_15.webp?alt=media"
@@ -3603,7 +3603,7 @@
     "id": 401,
     "name_1": "plane",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Pampún",
     "mixed_image": "rhiid_16",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_16.webp?alt=media"
@@ -3612,7 +3612,7 @@
     "id": 402,
     "name_1": "tires",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Ambalabú",
     "mixed_image": "rhiid_17",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_17.webp?alt=media"
@@ -3621,7 +3621,7 @@
     "id": 403,
     "name_1": "hat",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Lumbalú",
     "mixed_image": "rhiid_18",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_18.webp?alt=media"
@@ -3630,7 +3630,7 @@
     "id": 404,
     "name_1": "foot",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Lumbalú",
     "mixed_image": "rhiid_19",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_19.webp?alt=media"
@@ -3639,7 +3639,7 @@
     "id": 405,
     "name_1": "log",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Sahur Tralala",
     "mixed_image": "rhiid_20",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_20.webp?alt=media"
@@ -3648,7 +3648,7 @@
     "id": 406,
     "name_1": "ball",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Bam bam",
     "mixed_image": "rhiid_21",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_21.webp?alt=media"
@@ -3657,7 +3657,7 @@
     "id": 407,
     "name_1": "muscle",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Capuchini",
     "mixed_image": "rhiid_22",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_22.webp?alt=media"
@@ -3666,7 +3666,7 @@
     "id": 408,
     "name_1": "box",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Ambalabú",
     "mixed_image": "rhiid_23",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_23.webp?alt=media"
@@ -3675,7 +3675,7 @@
     "id": 409,
     "name_1": "kettle",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Tralala",
     "mixed_image": "rhiid_24",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_24.webp?alt=media"
@@ -3684,7 +3684,7 @@
     "id": 410,
     "name_1": "watermelon",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Tralala",
     "mixed_image": "rhiid_25",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_25.webp?alt=media"
@@ -3693,7 +3693,7 @@
     "id": 411,
     "name_1": "orange",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Ambalabú Capuchini",
     "mixed_image": "rhiid_26",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_26.webp?alt=media"
@@ -3702,7 +3702,7 @@
     "id": 412,
     "name_1": "avocado",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Tralala",
     "mixed_image": "rhiid_27",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_27.webp?alt=media"
@@ -3711,7 +3711,7 @@
     "id": 413,
     "name_1": "coconut",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Lumbalú",
     "mixed_image": "rhiid_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_28.webp?alt=media"
@@ -3720,7 +3720,7 @@
     "id": 414,
     "name_1": "banana",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Bananini",
     "mixed_image": "rhiid_29",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_29.webp?alt=media"
@@ -3729,7 +3729,7 @@
     "id": 415,
     "name_1": "cactus",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Capuchini",
     "mixed_image": "rhiid_30",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_30.webp?alt=media"
@@ -3738,7 +3738,7 @@
     "id": 416,
     "name_1": "tree",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Tirirí",
     "mixed_image": "rhiid_31",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_31.webp?alt=media"
@@ -3747,7 +3747,7 @@
     "id": 417,
     "name_1": "planet",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Ambalabú",
     "mixed_image": "rhiid_32",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_32.webp?alt=media"
@@ -3765,7 +3765,7 @@
     "id": 419,
     "name_1": "kendo",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Bananini",
     "mixed_image": "rhiid_34",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_34.webp?alt=media"
@@ -3774,7 +3774,7 @@
     "id": 420,
     "name_1": "dance",
     "name_2": "rhiid",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Tralala",
     "mixed_image": "rhiid_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/rhino%2Frhino_35.webp?alt=media"
@@ -3882,7 +3882,7 @@
     "id": 432,
     "name_1": "dog",
     "name_2": "ball",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Tirirí",
     "mixed_image": "ball_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/ball%2Fball_12.webp?alt=media"
@@ -3900,7 +3900,7 @@
     "id": 434,
     "name_1": "rhiid",
     "name_2": "ball",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Ambalabú",
     "mixed_image": "ball_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/ball%2Fball_14.webp?alt=media"
@@ -4026,7 +4026,7 @@
     "id": 448,
     "name_1": "coconut",
     "name_2": "ball",
-    "mixed_name": "id name",
+    "mixed_name": "Bananini Tung tung",
     "mixed_image": "ball_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/ball%2Fball_28.webp?alt=media"
@@ -4089,7 +4089,7 @@
     "id": 455,
     "name_1": "dance",
     "name_2": "ball",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Tirirí",
     "mixed_image": "ball_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/ball%2Fball_35.webp?alt=media"
@@ -4197,7 +4197,7 @@
     "id": 467,
     "name_1": "dog",
     "name_2": "fish",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Bam bam",
     "mixed_image": "fish_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/fish%2Ffish_12.webp?alt=media"
@@ -4215,7 +4215,7 @@
     "id": 469,
     "name_1": "rhiid",
     "name_2": "fish",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Capuchini",
     "mixed_image": "fish_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/fish%2Ffish_14.webp?alt=media"
@@ -4341,7 +4341,7 @@
     "id": 483,
     "name_1": "coconut",
     "name_2": "fish",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Brr brr",
     "mixed_image": "fish_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/fish%2Ffish_28.webp?alt=media"
@@ -4404,7 +4404,7 @@
     "id": 490,
     "name_1": "dance",
     "name_2": "fish",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Bam bam",
     "mixed_image": "fish_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/fish%2Ffish_35.webp?alt=media"
@@ -4512,7 +4512,7 @@
     "id": 502,
     "name_1": "dog",
     "name_2": "log",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Lumbalú",
     "mixed_image": "log_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/log%2Flog_12.webp?alt=media"
@@ -4530,7 +4530,7 @@
     "id": 504,
     "name_1": "rhiid",
     "name_2": "log",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Bam bam",
     "mixed_image": "log_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/log%2Flog_14.webp?alt=media"
@@ -4656,7 +4656,7 @@
     "id": 518,
     "name_1": "coconut",
     "name_2": "log",
-    "mixed_name": "id name",
+    "mixed_name": "Sahur Capuchini",
     "mixed_image": "log_28",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/log%2Flog_28.webp?alt=media"
@@ -4719,7 +4719,7 @@
     "id": 525,
     "name_1": "dance",
     "name_2": "log",
-    "mixed_name": "id name",
+    "mixed_name": "Bananini Patapín",
     "mixed_image": "log_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/log%2Flog_35.webp?alt=media"
@@ -4728,7 +4728,7 @@
     "id": 526,
     "name_1": "shark",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Tralala Pampún",
     "mixed_image": "cow_1",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_1.webp?alt=media"
@@ -4737,7 +4737,7 @@
     "id": 527,
     "name_1": "monkey",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Capuchini Ambalabú",
     "mixed_image": "cow_2",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_2.webp?alt=media"
@@ -4746,7 +4746,7 @@
     "id": 528,
     "name_1": "crocodile",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Larita Bam bam",
     "mixed_image": "cow_3",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_3.webp?alt=media"
@@ -4755,7 +4755,7 @@
     "id": 529,
     "name_1": "duck",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Tralala Tung tung",
     "mixed_image": "cow_4",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_4.webp?alt=media"
@@ -4764,7 +4764,7 @@
     "id": 530,
     "name_1": "cow",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Bananini Capuchini",
     "mixed_image": "cow_5",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_5.webp?alt=media"
@@ -4773,7 +4773,7 @@
     "id": 531,
     "name_1": "giraffe",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Lirili Bam bam",
     "mixed_image": "cow_6",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_6.webp?alt=media"
@@ -4782,7 +4782,7 @@
     "id": 532,
     "name_1": "frog",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Zampaló Pampún",
     "mixed_image": "cow_7",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_7.webp?alt=media"
@@ -4791,7 +4791,7 @@
     "id": 533,
     "name_1": "elephant",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Tung tung Larita",
     "mixed_image": "cow_8",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_8.webp?alt=media"
@@ -4800,7 +4800,7 @@
     "id": 534,
     "name_1": "fish",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Sahur Bananini",
     "mixed_image": "cow_9",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_9.webp?alt=media"
@@ -4809,7 +4809,7 @@
     "id": 535,
     "name_1": "beaver",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Zampaló Larita",
     "mixed_image": "cow_10",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_10.webp?alt=media"
@@ -4818,7 +4818,7 @@
     "id": 536,
     "name_1": "cat",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Brr brr Bam bam",
     "mixed_image": "cow_11",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_11.webp?alt=media"
@@ -4827,7 +4827,7 @@
     "id": 537,
     "name_1": "dog",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Bananini Bam bam",
     "mixed_image": "cow_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_12.webp?alt=media"
@@ -4836,7 +4836,7 @@
     "id": 538,
     "name_1": "camel",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Brr brr Tung tung",
     "mixed_image": "cow_13",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_13.webp?alt=media"
@@ -4845,7 +4845,7 @@
     "id": 539,
     "name_1": "rhiid",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Brr brr Bam bam",
     "mixed_image": "cow_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_14.webp?alt=media"
@@ -4854,7 +4854,7 @@
     "id": 540,
     "name_1": "shoe",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Larita Bam bam",
     "mixed_image": "cow_15",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_15.webp?alt=media"
@@ -4863,7 +4863,7 @@
     "id": 541,
     "name_1": "plane",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Lumbalú Ambalabú",
     "mixed_image": "cow_16",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_16.webp?alt=media"
@@ -4872,7 +4872,7 @@
     "id": 542,
     "name_1": "tires",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Tralala Pampún",
     "mixed_image": "cow_17",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_17.webp?alt=media"
@@ -4881,7 +4881,7 @@
     "id": 543,
     "name_1": "hat",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Sahur Sahur",
     "mixed_image": "cow_18",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_18.webp?alt=media"
@@ -4890,7 +4890,7 @@
     "id": 544,
     "name_1": "foot",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Tralala Tirirí",
     "mixed_image": "cow_19",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_19.webp?alt=media"
@@ -4899,7 +4899,7 @@
     "id": 545,
     "name_1": "log",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Capuchini Lumbalú",
     "mixed_image": "cow_20",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_20.webp?alt=media"
@@ -4908,7 +4908,7 @@
     "id": 546,
     "name_1": "ball",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Bananini Lirili",
     "mixed_image": "cow_21",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_21.webp?alt=media"
@@ -4917,7 +4917,7 @@
     "id": 547,
     "name_1": "muscle",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Tirirí Ambalabú",
     "mixed_image": "cow_22",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_22.webp?alt=media"
@@ -4926,7 +4926,7 @@
     "id": 548,
     "name_1": "box",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Pampún Tirirí",
     "mixed_image": "cow_23",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_23.webp?alt=media"
@@ -4935,7 +4935,7 @@
     "id": 549,
     "name_1": "kettle",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Lumbalú Tirirí",
     "mixed_image": "cow_24",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_24.webp?alt=media"
@@ -4944,7 +4944,7 @@
     "id": 550,
     "name_1": "watermelon",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Bam bam Lirili",
     "mixed_image": "cow_25",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_25.webp?alt=media"
@@ -4953,7 +4953,7 @@
     "id": 551,
     "name_1": "orange",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Bam bam Zampaló",
     "mixed_image": "cow_26",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_26.webp?alt=media"
@@ -4962,7 +4962,7 @@
     "id": 552,
     "name_1": "cow",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Tralala Larita",
     "mixed_image": "cow_27",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_27.webp?alt=media"
@@ -4971,7 +4971,7 @@
     "id": 553,
     "name_1": "coconut",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Tung tung Larita",
     "mixed_image": "cow_28",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_28.webp?alt=media"
@@ -4980,7 +4980,7 @@
     "id": 554,
     "name_1": "banana",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Larita Larita",
     "mixed_image": "cow_29",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_29.webp?alt=media"
@@ -4989,7 +4989,7 @@
     "id": 555,
     "name_1": "cactus",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Bananini Pampún",
     "mixed_image": "cow_30",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_30.webp?alt=media"
@@ -4998,7 +4998,7 @@
     "id": 556,
     "name_1": "tree",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Brr brr Capuchini",
     "mixed_image": "cow_31",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_31.webp?alt=media"
@@ -5007,7 +5007,7 @@
     "id": 557,
     "name_1": "planet",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Ambalabú Ambalabú",
     "mixed_image": "cow_32",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_32.webp?alt=media"
@@ -5016,7 +5016,7 @@
     "id": 558,
     "name_1": "coffee",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Lumbalú Lumbalú",
     "mixed_image": "cow_33",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_33.webp?alt=media"
@@ -5025,7 +5025,7 @@
     "id": 559,
     "name_1": "kendo",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Ambalabú Tung tung",
     "mixed_image": "cow_34",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_34.webp?alt=media"
@@ -5034,7 +5034,7 @@
     "id": 560,
     "name_1": "dance",
     "name_2": "cow",
-    "mixed_name": null,
+    "mixed_name": "Tung tung Brr brr",
     "mixed_image": "cow_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/cow%2Fcow_35.webp?alt=media"
@@ -5142,7 +5142,7 @@
     "id": 572,
     "name_1": "dog",
     "name_2": "coffee",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Lirili",
     "mixed_image": "coffee_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coffee%2Fcoffee_12.webp?alt=media"
@@ -5286,7 +5286,7 @@
     "id": 588,
     "name_1": "coconut",
     "name_2": "coffee",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Bam bam",
     "mixed_image": "coffee_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/coffee%2Fcoffee_28.webp?alt=media"
@@ -5457,7 +5457,7 @@
     "id": 607,
     "name_1": "dog",
     "name_2": "orange",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Patapín",
     "mixed_image": "orange_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/orange%2Forange_12.webp?alt=media"
@@ -5475,7 +5475,7 @@
     "id": 609,
     "name_1": "rhiid",
     "name_2": "orange",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Tung tung",
     "mixed_image": "orange_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/orange%2Forange_14.webp?alt=media"
@@ -5601,7 +5601,7 @@
     "id": 623,
     "name_1": "coconut",
     "name_2": "orange",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Capuchini",
     "mixed_image": "orange_28",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/orange%2Forange_28.webp?alt=media"
@@ -5664,7 +5664,7 @@
     "id": 630,
     "name_1": "dance",
     "name_2": "orange",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Patapín",
     "mixed_image": "orange_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/orange%2Forange_35.webp?alt=media"
@@ -5772,7 +5772,7 @@
     "id": 642,
     "name_1": "dog",
     "name_2": "frog",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Zampaló",
     "mixed_image": "frog_12",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/frog%2Ffrog_12.webp?alt=media"
@@ -5790,7 +5790,7 @@
     "id": 644,
     "name_1": "rhiid",
     "name_2": "frog",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Ambalabú",
     "mixed_image": "frog_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/frog%2Ffrog_14.webp?alt=media"
@@ -5916,7 +5916,7 @@
     "id": 658,
     "name_1": "coconut",
     "name_2": "frog",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Larita",
     "mixed_image": "frog_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/frog%2Ffrog_28.webp?alt=media"
@@ -5979,7 +5979,7 @@
     "id": 665,
     "name_1": "dance",
     "name_2": "frog",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Tralala",
     "mixed_image": "frog_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/frog%2Ffrog_35.webp?alt=media"
@@ -6087,7 +6087,7 @@
     "id": 677,
     "name_1": "dog",
     "name_2": "hat",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Brr brr",
     "mixed_image": "hat_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/hat%2Fhat_12.webp?alt=media"
@@ -6105,7 +6105,7 @@
     "id": 679,
     "name_1": "rhiid",
     "name_2": "hat",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Patapín",
     "mixed_image": "hat_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/hat%2Fhat_14.webp?alt=media"
@@ -6231,7 +6231,7 @@
     "id": 693,
     "name_1": "coconut",
     "name_2": "hat",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Lumbalú",
     "mixed_image": "hat_28",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/hat%2Fhat_28.webp?alt=media"
@@ -6294,7 +6294,7 @@
     "id": 700,
     "name_1": "dance",
     "name_2": "hat",
-    "mixed_name": "id name",
+    "mixed_name": "Ambalabú Zampaló",
     "mixed_image": "hat_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/hat%2Fhat_35.webp?alt=media"
@@ -6402,7 +6402,7 @@
     "id": 712,
     "name_1": "dog",
     "name_2": "watermelon",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Patapín",
     "mixed_image": "watermelon_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/watermelon%2Fwatermelon_12.webp?alt=media"
@@ -6420,7 +6420,7 @@
     "id": 714,
     "name_1": "rhiid",
     "name_2": "watermelon",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Lumbalú",
     "mixed_image": "watermelon_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/watermelon%2Fwatermelon_14.webp?alt=media"
@@ -6546,7 +6546,7 @@
     "id": 728,
     "name_1": "coconut",
     "name_2": "watermelon",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Bam bam",
     "mixed_image": "watermelon_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/watermelon%2Fwatermelon_28.webp?alt=media"
@@ -6609,7 +6609,7 @@
     "id": 735,
     "name_1": "dance",
     "name_2": "watermelon",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Tung tung",
     "mixed_image": "watermelon_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/watermelon%2Fwatermelon_35.webp?alt=media"
@@ -6717,7 +6717,7 @@
     "id": 747,
     "name_1": "dog",
     "name_2": "monkey",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Capuchini",
     "mixed_image": "monkey_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/monkey%2Fmonkey_12.webp?alt=media"
@@ -6735,7 +6735,7 @@
     "id": 749,
     "name_1": "rhiid",
     "name_2": "monkey",
-    "mixed_name": "id name",
+    "mixed_name": "Bananini Tung tung",
     "mixed_image": "monkey_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/monkey%2Fmonkey_14.webp?alt=media"
@@ -6861,7 +6861,7 @@
     "id": 763,
     "name_1": "coconut",
     "name_2": "monkey",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Sahur",
     "mixed_image": "monkey_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/monkey%2Fmonkey_28.webp?alt=media"
@@ -6924,7 +6924,7 @@
     "id": 770,
     "name_1": "dance",
     "name_2": "monkey",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Zampaló",
     "mixed_image": "monkey_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/monkey%2Fmonkey_35.webp?alt=media"
@@ -7032,7 +7032,7 @@
     "id": 782,
     "name_1": "dog",
     "name_2": "tires",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Lumbalú",
     "mixed_image": "tires_12",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/tires%2Ftires_12.webp?alt=media"
@@ -7050,7 +7050,7 @@
     "id": 784,
     "name_1": "rhiid",
     "name_2": "tires",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Tung tung",
     "mixed_image": "tires_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/tires%2Ftires_14.webp?alt=media"
@@ -7176,7 +7176,7 @@
     "id": 798,
     "name_1": "coconut",
     "name_2": "tires",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Ambalabú",
     "mixed_image": "tires_28",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/tires%2Ftires_28.webp?alt=media"
@@ -7239,7 +7239,7 @@
     "id": 805,
     "name_1": "dance",
     "name_2": "tires",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Lirili",
     "mixed_image": "tires_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/tires%2Ftires_35.webp?alt=media"
@@ -7347,7 +7347,7 @@
     "id": 817,
     "name_1": "dog",
     "name_2": "shoe",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Lirili",
     "mixed_image": "shoe_12",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/shoe%2Fshoe_12.webp?alt=media"
@@ -7365,7 +7365,7 @@
     "id": 819,
     "name_1": "rhiid",
     "name_2": "shoe",
-    "mixed_name": "id name",
+    "mixed_name": "Ambalabú Pampún",
     "mixed_image": "shoe_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/shoe%2Fshoe_14.webp?alt=media"
@@ -7491,7 +7491,7 @@
     "id": 833,
     "name_1": "coconut",
     "name_2": "shoe",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Sahur",
     "mixed_image": "shoe_28",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/shoe%2Fshoe_28.webp?alt=media"
@@ -7554,7 +7554,7 @@
     "id": 840,
     "name_1": "dance",
     "name_2": "shoe",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Tirirí",
     "mixed_image": "shoe_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/shoe%2Fshoe_35.webp?alt=media"
@@ -7662,7 +7662,7 @@
     "id": 852,
     "name_1": "dog",
     "name_2": "planet",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Brr brr",
     "mixed_image": "planet_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/planet%2Fplanet_12.webp?alt=media"
@@ -7680,7 +7680,7 @@
     "id": 854,
     "name_1": "rhiid",
     "name_2": "planet",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Tung tung",
     "mixed_image": "planet_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/planet%2Fplanet_14.webp?alt=media"
@@ -7806,7 +7806,7 @@
     "id": 868,
     "name_1": "coconut",
     "name_2": "planet",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Sahur",
     "mixed_image": "planet_28",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/planet%2Fplanet_28.webp?alt=media"
@@ -7869,7 +7869,7 @@
     "id": 875,
     "name_1": "dance",
     "name_2": "planet",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Tralala",
     "mixed_image": "planet_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/planet%2Fplanet_35.webp?alt=media"
@@ -7977,7 +7977,7 @@
     "id": 887,
     "name_1": "dog",
     "name_2": "elephant",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Tirirí",
     "mixed_image": "elephant_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/elephant%2Felephant_12.webp?alt=media"
@@ -7995,7 +7995,7 @@
     "id": 889,
     "name_1": "rhiid",
     "name_2": "elephant",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Sahur",
     "mixed_image": "elephant_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/elephant%2Felephant_14.webp?alt=media"
@@ -8121,7 +8121,7 @@
     "id": 903,
     "name_1": "coconut",
     "name_2": "elephant",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Zampaló",
     "mixed_image": "elephant_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/elephant%2Felephant_28.webp?alt=media"
@@ -8184,7 +8184,7 @@
     "id": 910,
     "name_1": "dance",
     "name_2": "elephant",
-    "mixed_name": "id name",
+    "mixed_name": "Bananini Larita",
     "mixed_image": "elephant_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/elephant%2Felephant_35.webp?alt=media"
@@ -8292,7 +8292,7 @@
     "id": 922,
     "name_1": "dog",
     "name_2": "camel",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Bananini",
     "mixed_image": "camel_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/camel%2Fcamel_12.webp?alt=media"
@@ -8310,7 +8310,7 @@
     "id": 924,
     "name_1": "rhiid",
     "name_2": "camel",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Tralala",
     "mixed_image": "camel_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/camel%2Fcamel_14.webp?alt=media"
@@ -8436,7 +8436,7 @@
     "id": 938,
     "name_1": "coconut",
     "name_2": "camel",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Brr brr",
     "mixed_image": "camel_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/camel%2Fcamel_28.webp?alt=media"
@@ -8499,7 +8499,7 @@
     "id": 945,
     "name_1": "dance",
     "name_2": "camel",
-    "mixed_name": "id name",
+    "mixed_name": "Sahur Tralala",
     "mixed_image": "camel_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/camel%2Fcamel_35.webp?alt=media"
@@ -8607,7 +8607,7 @@
     "id": 957,
     "name_1": "dog",
     "name_2": "giraffe",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Tralala",
     "mixed_image": "giraffe_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/giraffe%2Fgiraffe_12.webp?alt=media"
@@ -8625,7 +8625,7 @@
     "id": 959,
     "name_1": "rhiid",
     "name_2": "giraffe",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Ambalabú",
     "mixed_image": "giraffe_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/giraffe%2Fgiraffe_14.webp?alt=media"
@@ -8751,7 +8751,7 @@
     "id": 973,
     "name_1": "coconut",
     "name_2": "giraffe",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Bananini",
     "mixed_image": "giraffe_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/giraffe%2Fgiraffe_28.webp?alt=media"
@@ -8814,7 +8814,7 @@
     "id": 980,
     "name_1": "dance",
     "name_2": "giraffe",
-    "mixed_name": "id name",
+    "mixed_name": "Sahur Lumbalú",
     "mixed_image": "giraffe_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/giraffe%2Fgiraffe_35.webp?alt=media"
@@ -8922,7 +8922,7 @@
     "id": 992,
     "name_1": "dog",
     "name_2": "shark",
-    "mixed_name": "id name",
+    "mixed_name": "Lumbalú Tung tung",
     "mixed_image": "shark_12",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/shark%2Fshark_12.webp?alt=media"
@@ -8940,7 +8940,7 @@
     "id": 994,
     "name_1": "rhiid",
     "name_2": "shark",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Tung tung",
     "mixed_image": "shark_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/shark%2Fshark_14.webp?alt=media"
@@ -9066,7 +9066,7 @@
     "id": 1008,
     "name_1": "coconut",
     "name_2": "shark",
-    "mixed_name": "id name",
+    "mixed_name": "Ambalabú Lumbalú",
     "mixed_image": "shark_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/shark%2Fshark_28.webp?alt=media"
@@ -9129,7 +9129,7 @@
     "id": 1015,
     "name_1": "dance",
     "name_2": "shark",
-    "mixed_name": "id name",
+    "mixed_name": "Bam bam Lirili",
     "mixed_image": "shark_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/shark%2Fshark_35.webp?alt=media"
@@ -9138,7 +9138,7 @@
     "id": 1016,
     "name_1": "shark",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Zampaló Larita",
     "mixed_image": "kendo_1",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_1.webp?alt=media"
@@ -9147,7 +9147,7 @@
     "id": 1017,
     "name_1": "monkey",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Lumbalú Sahur",
     "mixed_image": "kendo_2",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_2.webp?alt=media"
@@ -9156,7 +9156,7 @@
     "id": 1018,
     "name_1": "crocodile",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Bananini Bananini",
     "mixed_image": "kendo_3",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_3.webp?alt=media"
@@ -9165,7 +9165,7 @@
     "id": 1019,
     "name_1": "duck",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Lirili Larita",
     "mixed_image": "kendo_4",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_4.webp?alt=media"
@@ -9174,7 +9174,7 @@
     "id": 1020,
     "name_1": "cow",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Tirirí Lumbalú",
     "mixed_image": "kendo_5",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_5.webp?alt=media"
@@ -9183,7 +9183,7 @@
     "id": 1021,
     "name_1": "giraffe",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Bananini Larita",
     "mixed_image": "kendo_6",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_6.webp?alt=media"
@@ -9192,7 +9192,7 @@
     "id": 1022,
     "name_1": "frog",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Larita Lirili",
     "mixed_image": "kendo_7",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_7.webp?alt=media"
@@ -9201,7 +9201,7 @@
     "id": 1023,
     "name_1": "elephant",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Ambalabú Larita",
     "mixed_image": "kendo_8",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_8.webp?alt=media"
@@ -9210,7 +9210,7 @@
     "id": 1024,
     "name_1": "fish",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Ambalabú Sahur",
     "mixed_image": "kendo_9",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_9.webp?alt=media"
@@ -9219,7 +9219,7 @@
     "id": 1025,
     "name_1": "beaver",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Brr brr Bananini",
     "mixed_image": "kendo_10",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_10.webp?alt=media"
@@ -9228,7 +9228,7 @@
     "id": 1026,
     "name_1": "cat",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Pampún Patapín",
     "mixed_image": "kendo_11",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_11.webp?alt=media"
@@ -9237,7 +9237,7 @@
     "id": 1027,
     "name_1": "dog",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Capuchini Lirili",
     "mixed_image": "kendo_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_12.webp?alt=media"
@@ -9246,7 +9246,7 @@
     "id": 1028,
     "name_1": "camel",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Patapín Zampaló",
     "mixed_image": "kendo_13",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_13.webp?alt=media"
@@ -9255,7 +9255,7 @@
     "id": 1029,
     "name_1": "rhiid",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Zampaló Ambalabú",
     "mixed_image": "kendo_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_14.webp?alt=media"
@@ -9264,7 +9264,7 @@
     "id": 1030,
     "name_1": "shoe",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Bam bam Lirili",
     "mixed_image": "kendo_15",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_15.webp?alt=media"
@@ -9273,7 +9273,7 @@
     "id": 1031,
     "name_1": "plane",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Tung tung Bam bam",
     "mixed_image": "kendo_16",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_16.webp?alt=media"
@@ -9282,7 +9282,7 @@
     "id": 1032,
     "name_1": "tires",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Lumbalú Lirili",
     "mixed_image": "kendo_17",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_17.webp?alt=media"
@@ -9291,7 +9291,7 @@
     "id": 1033,
     "name_1": "hat",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Pampún Lumbalú",
     "mixed_image": "kendo_18",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_18.webp?alt=media"
@@ -9300,7 +9300,7 @@
     "id": 1034,
     "name_1": "foot",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Patapín Lumbalú",
     "mixed_image": "kendo_19",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_19.webp?alt=media"
@@ -9309,7 +9309,7 @@
     "id": 1035,
     "name_1": "log",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Tirirí Lirili",
     "mixed_image": "kendo_20",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_20.webp?alt=media"
@@ -9318,7 +9318,7 @@
     "id": 1036,
     "name_1": "ball",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Brr brr Patapín",
     "mixed_image": "kendo_21",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_21.webp?alt=media"
@@ -9327,7 +9327,7 @@
     "id": 1037,
     "name_1": "muscle",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Sahur Lumbalú",
     "mixed_image": "kendo_22",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_22.webp?alt=media"
@@ -9336,7 +9336,7 @@
     "id": 1038,
     "name_1": "box",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Capuchini Tralala",
     "mixed_image": "kendo_23",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_23.webp?alt=media"
@@ -9345,7 +9345,7 @@
     "id": 1039,
     "name_1": "kettle",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Bam bam Patapín",
     "mixed_image": "kendo_24",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_24.webp?alt=media"
@@ -9354,7 +9354,7 @@
     "id": 1040,
     "name_1": "watermelon",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Patapín Tralala",
     "mixed_image": "kendo_25",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_25.webp?alt=media"
@@ -9363,7 +9363,7 @@
     "id": 1041,
     "name_1": "orange",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Ambalabú Tirirí",
     "mixed_image": "kendo_26",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_26.webp?alt=media"
@@ -9372,7 +9372,7 @@
     "id": 1042,
     "name_1": "kendo",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Capuchini Tralala",
     "mixed_image": "kendo_27",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_27.webp?alt=media"
@@ -9381,7 +9381,7 @@
     "id": 1043,
     "name_1": "coconut",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Tung tung Ambalabú",
     "mixed_image": "kendo_28",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_28.webp?alt=media"
@@ -9390,7 +9390,7 @@
     "id": 1044,
     "name_1": "banana",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Tung tung Larita",
     "mixed_image": "kendo_29",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_29.webp?alt=media"
@@ -9399,7 +9399,7 @@
     "id": 1045,
     "name_1": "cactus",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Larita Capuchini",
     "mixed_image": "kendo_30",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_30.webp?alt=media"
@@ -9408,7 +9408,7 @@
     "id": 1046,
     "name_1": "tree",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Bananini Capuchini",
     "mixed_image": "kendo_31",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_31.webp?alt=media"
@@ -9417,7 +9417,7 @@
     "id": 1047,
     "name_1": "planet",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Larita Capuchini",
     "mixed_image": "kendo_32",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_32.webp?alt=media"
@@ -9426,7 +9426,7 @@
     "id": 1048,
     "name_1": "coffee",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Tung tung Lirili",
     "mixed_image": "kendo_33",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_33.webp?alt=media"
@@ -9435,7 +9435,7 @@
     "id": 1049,
     "name_1": "kendo",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Bananini Lumbalú",
     "mixed_image": "kendo_34",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_34.webp?alt=media"
@@ -9444,7 +9444,7 @@
     "id": 1050,
     "name_1": "dance",
     "name_2": "kendo",
-    "mixed_name": null,
+    "mixed_name": "Pampún Ambalabú",
     "mixed_image": "kendo_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kendo%2Fkendo_35.webp?alt=media"
@@ -9552,7 +9552,7 @@
     "id": 1062,
     "name_1": "dog",
     "name_2": "foot",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Tirirí",
     "mixed_image": "foot_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/foot%2Ffoot_12.webp?alt=media"
@@ -9570,7 +9570,7 @@
     "id": 1064,
     "name_1": "rhiid",
     "name_2": "foot",
-    "mixed_name": "id name",
+    "mixed_name": "Zampaló Ambalabú",
     "mixed_image": "foot_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/foot%2Ffoot_14.webp?alt=media"
@@ -9696,7 +9696,7 @@
     "id": 1078,
     "name_1": "coconut",
     "name_2": "foot",
-    "mixed_name": "id name",
+    "mixed_name": "Tung tung Tung tung",
     "mixed_image": "foot_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/foot%2Ffoot_28.webp?alt=media"
@@ -9759,7 +9759,7 @@
     "id": 1085,
     "name_1": "dance",
     "name_2": "foot",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Larita",
     "mixed_image": "foot_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/foot%2Ffoot_35.webp?alt=media"
@@ -9867,7 +9867,7 @@
     "id": 1097,
     "name_1": "dog",
     "name_2": "crocodile",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Bananini",
     "mixed_image": "crocodile_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/croccodile%2Fcrocodile_12.webp?alt=media"
@@ -9885,7 +9885,7 @@
     "id": 1099,
     "name_1": "rhiid",
     "name_2": "crocodile",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Tirirí",
     "mixed_image": "crocodile_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/croccodile%2Fcrocodile_14.webp?alt=media"
@@ -10011,7 +10011,7 @@
     "id": 1113,
     "name_1": "coconut",
     "name_2": "crocodile",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Sahur",
     "mixed_image": "crocodile_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/croccodile%2Fcrocodile_28.webp?alt=media"
@@ -10074,7 +10074,7 @@
     "id": 1120,
     "name_1": "dance",
     "name_2": "crocodile",
-    "mixed_name": "id name",
+    "mixed_name": "Tirirí Bananini",
     "mixed_image": "crocodile_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/croccodile%2Fcrocodile_35.webp?alt=media"
@@ -10182,7 +10182,7 @@
     "id": 1132,
     "name_1": "dog",
     "name_2": "kettle",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Patapín",
     "mixed_image": "kettle_12",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kettle%2Fkettle_12.webp?alt=media"
@@ -10200,7 +10200,7 @@
     "id": 1134,
     "name_1": "rhiid",
     "name_2": "kettle",
-    "mixed_name": "id name",
+    "mixed_name": "Pampún Tung tung",
     "mixed_image": "kettle_14",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kettle%2Fkettle_14.webp?alt=media"
@@ -10326,7 +10326,7 @@
     "id": 1148,
     "name_1": "coconut",
     "name_2": "kettle",
-    "mixed_name": "id name",
+    "mixed_name": "Tralala Ambalabú",
     "mixed_image": "kettle_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kettle%2Fkettle_28.webp?alt=media"
@@ -10389,7 +10389,7 @@
     "id": 1155,
     "name_1": "dance",
     "name_2": "kettle",
-    "mixed_name": "id name",
+    "mixed_name": "Lirili Sahur",
     "mixed_image": "kettle_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/kettle%2Fkettle_35.webp?alt=media"
@@ -10398,7 +10398,7 @@
     "id": 1156,
     "name_1": "shark",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Lumbalú Brr brr",
     "mixed_image": "dance_1",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_1.webp?alt=media"
@@ -10407,7 +10407,7 @@
     "id": 1157,
     "name_1": "monkey",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Capuchini Lumbalú",
     "mixed_image": "dance_2",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_2.webp?alt=media"
@@ -10416,7 +10416,7 @@
     "id": 1158,
     "name_1": "crocodile",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Tralala Bananini",
     "mixed_image": "dance_3",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_3.webp?alt=media"
@@ -10425,7 +10425,7 @@
     "id": 1159,
     "name_1": "duck",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Bam bam Lumbalú",
     "mixed_image": "dance_4",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_4.webp?alt=media"
@@ -10434,7 +10434,7 @@
     "id": 1160,
     "name_1": "cow",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Lumbalú Lumbalú",
     "mixed_image": "dance_5",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_5.webp?alt=media"
@@ -10443,7 +10443,7 @@
     "id": 1161,
     "name_1": "giraffe",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Patapín Tung tung",
     "mixed_image": "dance_6",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_6.webp?alt=media"
@@ -10452,7 +10452,7 @@
     "id": 1162,
     "name_1": "frog",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Capuchini Ambalabú",
     "mixed_image": "dance_7",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_7.webp?alt=media"
@@ -10461,7 +10461,7 @@
     "id": 1163,
     "name_1": "elephant",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Patapín Sahur",
     "mixed_image": "dance_8",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_8.webp?alt=media"
@@ -10470,7 +10470,7 @@
     "id": 1164,
     "name_1": "fish",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Lumbalú Ambalabú",
     "mixed_image": "dance_9",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_9.webp?alt=media"
@@ -10479,7 +10479,7 @@
     "id": 1165,
     "name_1": "beaver",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Lumbalú Ambalabú",
     "mixed_image": "dance_10",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_10.webp?alt=media"
@@ -10488,7 +10488,7 @@
     "id": 1166,
     "name_1": "cat",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Zampaló Tung tung",
     "mixed_image": "dance_11",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_11.webp?alt=media"
@@ -10497,7 +10497,7 @@
     "id": 1167,
     "name_1": "dog",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Brr brr Zampaló",
     "mixed_image": "dance_12",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_12.webp?alt=media"
@@ -10506,7 +10506,7 @@
     "id": 1168,
     "name_1": "camel",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Lumbalú Patapín",
     "mixed_image": "dance_13",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_13.webp?alt=media"
@@ -10515,7 +10515,7 @@
     "id": 1169,
     "name_1": "rhiid",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Brr brr Larita",
     "mixed_image": "dance_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_14.webp?alt=media"
@@ -10524,7 +10524,7 @@
     "id": 1170,
     "name_1": "shoe",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Patapín Ambalabú",
     "mixed_image": "dance_15",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_15.webp?alt=media"
@@ -10533,7 +10533,7 @@
     "id": 1171,
     "name_1": "plane",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Bam bam Capuchini",
     "mixed_image": "dance_16",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_16.webp?alt=media"
@@ -10542,7 +10542,7 @@
     "id": 1172,
     "name_1": "tires",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Capuchini Patapín",
     "mixed_image": "dance_17",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_17.webp?alt=media"
@@ -10551,7 +10551,7 @@
     "id": 1173,
     "name_1": "hat",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Patapín Sahur",
     "mixed_image": "dance_18",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_18.webp?alt=media"
@@ -10560,7 +10560,7 @@
     "id": 1174,
     "name_1": "foot",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Pampún Brr brr",
     "mixed_image": "dance_19",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_19.webp?alt=media"
@@ -10569,7 +10569,7 @@
     "id": 1175,
     "name_1": "log",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Tirirí Pampún",
     "mixed_image": "dance_20",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_20.webp?alt=media"
@@ -10578,7 +10578,7 @@
     "id": 1176,
     "name_1": "ball",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Zampaló Brr brr",
     "mixed_image": "dance_21",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_21.webp?alt=media"
@@ -10587,7 +10587,7 @@
     "id": 1177,
     "name_1": "muscle",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Lirili Tirirí",
     "mixed_image": "dance_22",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_22.webp?alt=media"
@@ -10596,7 +10596,7 @@
     "id": 1178,
     "name_1": "box",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Sahur Lumbalú",
     "mixed_image": "dance_23",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_23.webp?alt=media"
@@ -10605,7 +10605,7 @@
     "id": 1179,
     "name_1": "kettle",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Lirili Bam bam",
     "mixed_image": "dance_24",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_24.webp?alt=media"
@@ -10614,7 +10614,7 @@
     "id": 1180,
     "name_1": "watermelon",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Tung tung Capuchini",
     "mixed_image": "dance_25",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_25.webp?alt=media"
@@ -10623,7 +10623,7 @@
     "id": 1181,
     "name_1": "orange",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Tung tung Zampaló",
     "mixed_image": "dance_26",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_26.webp?alt=media"
@@ -10632,7 +10632,7 @@
     "id": 1182,
     "name_1": "dance",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Zampaló Ambalabú",
     "mixed_image": "dance_27",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_27.webp?alt=media"
@@ -10641,7 +10641,7 @@
     "id": 1183,
     "name_1": "coconut",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Patapín Tralala",
     "mixed_image": "dance_28",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_28.webp?alt=media"
@@ -10650,7 +10650,7 @@
     "id": 1184,
     "name_1": "banana",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Tirirí Tralala",
     "mixed_image": "dance_29",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_29.webp?alt=media"
@@ -10659,7 +10659,7 @@
     "id": 1185,
     "name_1": "cactus",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Brr brr Pampún",
     "mixed_image": "dance_30",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_30.webp?alt=media"
@@ -10668,7 +10668,7 @@
     "id": 1186,
     "name_1": "tree",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Capuchini Lirili",
     "mixed_image": "dance_31",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_31.webp?alt=media"
@@ -10677,7 +10677,7 @@
     "id": 1187,
     "name_1": "planet",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Sahur Tung tung",
     "mixed_image": "dance_32",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_32.webp?alt=media"
@@ -10686,7 +10686,7 @@
     "id": 1188,
     "name_1": "coffee",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Tirirí Tung tung",
     "mixed_image": "dance_33",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_33.webp?alt=media"
@@ -10695,7 +10695,7 @@
     "id": 1189,
     "name_1": "kendo",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Larita Larita",
     "mixed_image": "dance_34",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_34.webp?alt=media"
@@ -10704,7 +10704,7 @@
     "id": 1190,
     "name_1": "dance",
     "name_2": "dance",
-    "mixed_name": null,
+    "mixed_name": "Pampún Bananini",
     "mixed_image": "dance_35",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/dance%2Fdance_35.webp?alt=media"
@@ -10812,7 +10812,7 @@
     "id": 1202,
     "name_1": "dog",
     "name_2": "tree",
-    "mixed_name": "id name",
+    "mixed_name": "Capuchini Brr brr",
     "mixed_image": "tree_12",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/tree%2Ftree_12.webp?alt=media"
@@ -10830,7 +10830,7 @@
     "id": 1204,
     "name_1": "rhiid",
     "name_2": "tree",
-    "mixed_name": "id name",
+    "mixed_name": "Patapín Bananini",
     "mixed_image": "tree_14",
     "is_pro": "FALSE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/tree%2Ftree_14.webp?alt=media"
@@ -10956,7 +10956,7 @@
     "id": 1218,
     "name_1": "coconut",
     "name_2": "tree",
-    "mixed_name": "id name",
+    "mixed_name": "Larita Capuchini",
     "mixed_image": "tree_28",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/tree%2Ftree_28.webp?alt=media"
@@ -11019,7 +11019,7 @@
     "id": 1225,
     "name_1": "dance",
     "name_2": "tree",
-    "mixed_name": "id name",
+    "mixed_name": "Brr brr Zampaló",
     "mixed_image": "tree_35",
     "is_pro": "TRUE",
     "image_url": "https://firebasestorage.googleapis.com/v0/b/brainrot-storage.firebasestorage.app/o/tree%2Ftree_35.webp?alt=media"
